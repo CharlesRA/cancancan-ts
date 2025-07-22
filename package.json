@@ -1,0 +1,37 @@
+{
+  "name": "cancancan-ts",
+  "version": "1.0.0",
+  "description": "Lightweight and extensible authorization engine for TypeScript inspired by CanCanCan. Define flexible permissions using actions, subjects, and conditions.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonpseudo/mon-package.git"
+  },
+  "keywords": [
+    "authorization",
+    "permissions",
+    "access-control",
+    "ability",
+    "typescript",
+    "cancancan",
+    "rbac",
+    "acl",
+    "role-based-access-control",
+    "access-control-list",
+    "security",
+    "policy",
+    "rules-engine"
+  ],
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "typescript": "^5.8.3"
+  }
+}
