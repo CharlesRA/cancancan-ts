@@ -1,6 +1,6 @@
 {
   "name": "cancancan-ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lightweight and extensible authorization engine for TypeScript inspired by CanCanCan. Define flexible permissions using actions, subjects, and conditions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
