@@ -6,7 +6,7 @@ cancancan-ts is a lightweight TypeScript package for managing permissions in you
 
 ## Installation
 
-`npm install can-can-can-ts`
+`npm install cancancan-ts`
 
 ## Usage
 
