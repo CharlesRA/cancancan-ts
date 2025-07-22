@@ -1,6 +1,6 @@
 {
   "name": "cancancan-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight and extensible authorization engine for TypeScript inspired by CanCanCan. Define flexible permissions using actions, subjects, and conditions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tonpseudo/mon-package.git"
+    "url": "git+https://github.com/CharlesRA/cancancan-ts"
   },
   "keywords": [
     "authorization",
